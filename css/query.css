@@ -1,0 +1,31 @@
+@media (max-width:767.98px) {
+    .header {
+        display: block;
+    }
+    .sidebar-header {
+        width: 100%;
+    }
+    .body-header {
+        display: none;
+        width: 100%;
+    }
+    .sidebar {
+        display: none;
+        width: 320px;
+        z-index: 9;
+        height: calc(100% - 3.5rem);
+        position: fixed;
+        top: 3.5rem;
+        right: 0;
+    }
+    .sidebar-container {
+        position: relative;
+        width: 320px;
+        height: 100%;
+        top: 0;
+    }
+    .main-body {
+        width: 100%;
+        z-index: 1;
+    }
+}
