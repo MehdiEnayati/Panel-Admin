@@ -17,7 +17,7 @@ this admin panel is made with front-end technologies, that include HTML, CSS, Bo
 
 ## How to setup project:
 
-- Clone the repo https://github.com/MehdiEnayati/Panel-Admin/
+- Clone the repo
 ```bash
   git clone https://github.com/MehdiEnayati/Panel-Admin/
 ```
